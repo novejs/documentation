@@ -1,0 +1,20 @@
+{
+  "name": "novejs-documentation",
+  "version": "1.0.0",
+  "description": "Documentations of Nove.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novejs/documentation.git"
+  },
+  "author": "JasonChen <me@ijason.cc>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/novejs/documentation/issues"
+  },
+  "homepage": "https://github.com/novejs/documentation#readme"
+}
